@@ -1,0 +1,5 @@
+Noob Programmer ingin belajar
+
+Belajar Vue JS
+Belajar Mongo JS
+Belajar Tailwind
